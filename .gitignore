@@ -1,4 +1,5 @@
-
+.vs/
+x64/
 .vs/opencv_console_app_3/v16/ipch/AutoPCH/a9b924127d9d88e8/OPENCV_CONSOLE_APP_3.ipch
 .vs/opencv_console_app_3/v16/Browse.VC.opendb
 .vs/opencv_console_app_3/v16/Browse.VC.db-wal

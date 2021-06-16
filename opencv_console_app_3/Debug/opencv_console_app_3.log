@@ -1,2 +1,1 @@
-﻿  opencv_console_app_3.cpp
-  opencv_console_app_3.vcxproj -> D:\VSCommunity\repos\opencv_console_app_3\Debug\opencv_console_app_3.exe
+﻿D:\VSCommunity\repos\opencv_console_app_3\opencv_console_app_3\opencv_console_app_3.vcxproj(147,3): error MSB4019: The imported project "C:\Users\Adi\.nuget\packages\opencvnuget\filament.props" was not found. Confirm that the expression in the Import declaration "C:\Users\Adi\.nuget\packages\opencvnuget\filament.props" is correct, and that the file exists on disk.

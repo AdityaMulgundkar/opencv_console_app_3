@@ -144,5 +144,6 @@
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
-  <Import Project="D:\OpenCV Nuget Windows\C++ nuspec test 1\opencv-nuget\filament.props" />
+  <!-- TODO: Replace the next line with your system directory where the nuget packages are stored, to the OpenCVNuget.props file. -->
+  <Import Project="C:\nuget-packages\OpenCVNuget.4.5.2\native\OpenCVNuget.props" />
 </Project>
